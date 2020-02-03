@@ -84,7 +84,7 @@ gatsby-starter-blog-theme
 
 Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/).
 
-Here are some places to start::
+Here are some places to start:::
 
 ### Themes
 
